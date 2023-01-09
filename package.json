@@ -1,0 +1,11 @@
+{
+  "name": "clustering",
+  "version": "1.0.0",
+  "description": "Node performance tuning using cluster mode",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Kelvin Omozokpia",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
